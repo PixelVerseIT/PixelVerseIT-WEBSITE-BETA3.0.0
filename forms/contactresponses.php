@@ -1,9 +1,6 @@
 <?php
 // Set up the database connection
-    $db_host = "sql206.infinityfree.com";
-    $db_user = "epiz_31943419";
-    $db_pass = "1J4DjUH15GFCDEO";
-    $db_name = "epiz_31943419_pixelverseitweb1CONTACTFORM";
+    //DELTED DUE TO SECURITY
 
 $conn = new mysqli($db_host, $db_user, $db_pass, $db_name);
 
